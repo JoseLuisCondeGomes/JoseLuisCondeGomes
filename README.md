@@ -29,6 +29,11 @@ Here are some ideas to get you started:
 </p>
 -->
 
+I am Jose Luis, an entry-level web developer with a strong commitment
+to learning and growth. This profile highlights my technical skills,
+proyects, and dedication as I actively pursue my first professional
+opportunity in web development.
+
 - 🔭 I’m currently working on [bloomly](https://github.com/JoseLuCG/Proyecto_FinalCurso)
 
 - 🌱 I’m currently learning **Springboot**
@@ -37,7 +42,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/jose-luis-conde-gomes-" target="blank">
+    <a href="https://www.linkedin.com/in/jose-luis-conde-gomes-" target="blank">
         <img 
             align="center" 
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
